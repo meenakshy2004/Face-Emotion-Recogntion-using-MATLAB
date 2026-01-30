@@ -18,17 +18,17 @@ Facial emotion recognition is an important application of computer vision and hu
 
 ## Methodology
 1.	Dataset Preprocessing
-   1. Conversion to grayscale
-	 2. Image resizing
-   3. Noise reduction
-   4. Histogram equalization
+     1. Conversion to grayscale
+     2. Image resizing
+     3. Noise reduction
+     4. Histogram equalization
 2.	Feature Extraction & Classification
-   1. 	AlexNet convolutional layers used for deep feature extraction
-   2. Fully connected layers used for emotion classification
+     1. 	AlexNet convolutional layers used for deep feature extraction
+     2. Fully connected layers used for emotion classification
 3.	Real-Time Emotion Recognition
-   1. Webcam captures live facial images
-   2. Processed frames are classified instantly
-   3. Detected emotion is displayed in real time
+     1. Webcam captures live facial images
+     2. Processed frames are classified instantly
+     3. Detected emotion is displayed in real time
       
 ## Tools & Technologies
 1. MATLAB
