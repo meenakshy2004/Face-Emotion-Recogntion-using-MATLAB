@@ -40,7 +40,7 @@ Facial emotion recognition is an important application of computer vision and hu
 ## Results
 The system achieves reliable and accurate emotion recognition in real time, demonstrating the effectiveness of deep learning models for facial expression analysis compared to traditional machine learning methods.
 
-Applications
+## Applications
 1. Human–computer interaction
 2. Smart surveillance systems
 3. Emotion-aware systems
