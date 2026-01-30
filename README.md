@@ -2,10 +2,10 @@
 
 This project implements a deep learning–based facial emotion recognition system in MATLAB. It classifies facial expressions such as happiness, sadness, anger, surprise, and fear using a pre-trained AlexNet convolutional neural network (CNN). The system supports both dataset-based testing and real-time emotion recognition using a webcam.
 
-Project Overview
+## Project Overview
 Facial emotion recognition is an important application of computer vision and human–computer interaction. This project leverages deep learning to automatically extract meaningful facial features and accurately classify emotions, outperforming traditional machine learning approaches.
 
-Features
+## Features
 1. Deep learning–based facial emotion classification
 2. Uses AlexNet (pre-trained CNN) for feature extraction
 3. Supports multiple emotion classes:
@@ -16,7 +16,7 @@ Features
 4. Image preprocessing for improved performance
 5. Real-time emotion detection using webcam input
 
-Methodology
+## Methodology
 1.	Dataset Preprocessing
    1. Conversion to grayscale
 	 2. Image resizing
@@ -30,14 +30,14 @@ Methodology
    2. Processed frames are classified instantly
    3. Detected emotion is displayed in real time
       
-Tools & Technologies
+## Tools & Technologies
 1. MATLAB
 2. Deep Learning Toolbox
 3. Computer Vision Toolbox
 4. Pre-trained AlexNet CNN
 5. Webcam support
    
-Results
+## Results
 The system achieves reliable and accurate emotion recognition in real time, demonstrating the effectiveness of deep learning models for facial expression analysis compared to traditional machine learning methods.
 
 Applications
